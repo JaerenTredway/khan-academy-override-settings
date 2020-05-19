@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         khan-academy-disable-subtitles
 // @namespace    http://tampermonkey.net/
-// @version      0.1
+// @version      1.0
 // @description  override the default settings for Khan Academy video playback speed
 // @author       Jaeren Tredway
 // @include      https://www.khanacademy.org/*
